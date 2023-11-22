@@ -6,7 +6,7 @@ To set up the Smart Query project on your local machine, follow these simple ste
 
 1. Clone the repository:
     ```
-    git clone https://github.com/Dagmawi-Beyene/smart-query
+    git clone https://github.com/Dagmawi-Beyene/smart-query-project
     ```
 2. Navigate to the project directory:
     ```
@@ -43,7 +43,7 @@ NEXT_PUBLIC_REPLICATE_API_KEY=xxxx
 
 # Live Preview
 
-You can preview the Smart Query project live on the web before running it locally. Here's a placeholder link to the application: [https://your-live-preview-link.com](https://your-live-preview-link.com)
+You can preview the Smart Query project live on the web before running it locally. Here's a placeholder link to the application: [https://smart-query-i5uu.vercel.app/](https://smart-query-i5uu.vercel.app/)
 
 
 # Table of Contents
